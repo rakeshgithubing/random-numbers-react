@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 50vh;
+  width: 60vh;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin: 0px;
+  padding-bottom: 20px;
+}
+.even-odd-paragraph {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.button {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: 600;
+  height: 27px;
+  width: 100px;
+  border-radius: 7px;
+  border-width: 0px;
+}
+.paragraph {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 10px;
+  font-weight: bold;
+}
